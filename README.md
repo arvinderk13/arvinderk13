@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Arvinder Kaur 👋
 
-<!--
-**arvinderk13/arvinderk13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Graduate from Kurukshetra University
 
-Here are some ideas to get you started:
+💻 Python Developer | Machine Learning Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- Machine Learning
+- Pandas
+- NumPy
+- Scikit-learn
+- TensorFlow
+- SQL
+- FastAPI
+
+## Projects
+- DocuMind AI
+- Face Attendance System
+- AI Image Colorization
+
+## Currently Learning
+- Advanced Python
+- Generative AI
+- Backend Development
+
+📍 Mohali, Punjab
